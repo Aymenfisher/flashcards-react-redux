@@ -15,6 +15,10 @@ The app's state is totally normalized, with slices for topics, quizzes, and card
 - `/quizzes` – index of all quizzes
 - `/quizzes/:quizId` – page for an individual quiz
 
+# Screenshots
+![](./src/screenshots/screen-1.png)
+![](./src/screenshots/screen-2.png)
+
 # To Test
 
 1. Create topics
